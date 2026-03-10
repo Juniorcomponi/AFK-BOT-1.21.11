@@ -1,7 +1,7 @@
 {
   "bot-account": {
     "username": "AFKBot", 
-    "password": "",
+    "password": "afkbot",
     "type": "offline"
   },
 
@@ -14,14 +14,14 @@
   "position": {
     "enabled": false,
     "x": 0,
-    "y": 0,
+    "y": 1,
     "z": 0
   },
 
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": ""
+      "password": "afkbot"
     },
 
     "anti-afk": {
@@ -35,9 +35,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player",
-        "Subscibe To Tyrox!",
-        "I Like to Play Minecraft!"
+        "",
+        "",
+        ""
       ]
     },
 
