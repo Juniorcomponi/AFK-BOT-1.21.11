@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "tahafashel.aternos.me", 
-    "port": 54559,   
+    "ip": "VayronSMP.aternos.me", 
+    "port": 37743,   
     "version": "1.21.11" 
   },
 
@@ -26,7 +26,7 @@
 
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": true,
     },
 
     "chat-messages": {
